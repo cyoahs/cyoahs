@@ -1,6 +1,9 @@
 ## Hi there 👋, I'm Yecheng SHAO
 
-- 🔭 I’m currently working on learning-based control for humanoids in [Unitree](https://github.com/unitreerobotics/).
+- 🔭 I’m currently working on learning-based control for legged robots in [Unitree](https://github.com/unitreerobotics/). Previously I finished my Ph.D projects in Center for X-Mechanics Zhejiang University.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **cyoahs/cyoahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
