@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Yecheng SHAO
 
-- 🔭 I’m currently working on learning-based control for humanoids in (Unitree)[https://github.com/unitreerobotics/].
+- 🔭 I’m currently working on learning-based control for humanoids in [Unitree](https://github.com/unitreerobotics/).
 <!--
 **cyoahs/cyoahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
