@@ -1,8 +1,8 @@
 ## Hi there 👋, I'm Yecheng SHAO
 
-- 🔭 I’m currently working on learning-based control for legged robots in [Unitree](https://github.com/unitreerobotics/). Previously I finished my Ph.D projects in Center for X-Mechanics Zhejiang University.
+> All repositories here are personal projects and are not affiliated with my employer.
 
-- 🌱 All repositories here are personal projects and are not affiliated with my employer.
+- 🔭 I’m currently working on learning-based control for legged robots in [Unitree](https://github.com/unitreerobotics/). Previously I finished my Ph.D projects in Center for X-Mechanics Zhejiang University.
 
 <!--
 **cyoahs/cyoahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
