@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on learning-based control for legged robots in [Unitree](https://github.com/unitreerobotics/). Previously I finished my Ph.D projects in Center for X-Mechanics Zhejiang University.
 
+- 🌱 All repositories here are personal projects and are not affiliated with my employer.
+
 <!--
 **cyoahs/cyoahs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
